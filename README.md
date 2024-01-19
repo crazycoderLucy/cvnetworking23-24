@@ -1,7 +1,6 @@
 # cvnetworking23-24
-semester final
 
-[Updated 1/16] Networking Project
+[Updated 1/19] Networking Project
 By: Trevor, Will, Kyler, Lucy [TWKL]
 Preface:
 This is NOT a step-to-step tutorial but rather documents our thought process, changes, problems, and failures that we have encountered when working on this project. 
