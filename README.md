@@ -37,35 +37,3 @@ Help from Mr. Steiner, etc.
 Use cybercup github repo
 Post on LinkedIn the final result
 
-Project Process
-Organized PC Layout
-Installed 4 SSDs
-Installed Windows Server 2022
-Configured Raid 1+0 on Windows Server
-In Windows Server “Add Roles and Features” Wizard
-Containers and Windows Subsystem for Linux
-Downloading Docker Desktop
-Downloading WSL -> troubleshooting, not downloading properly
-Remove Windows Server and change it to Ubuntu - starting over
-
-
-LINUX
-Download Docker
-download ctf platform
-killed process and started building docker through CLI
-configuring cisco switch
-remove router -> double NAT is unnecessary (router got hit with banhammer)
- want to build parity drive 
- Download mdatdm
-create RAID device
-started docker container from repo
-Install CTFd
-Docker-compose stopped unexpectedly
-Cannot start nginx, install nginx -> error addressing 
-Port is already allocated for cats web page
-Absurdly productive amount of time spent configuring essential aspects of the ctfd
-Create admin accounts for all project contributors
-setting up cloudflare argo tunnel 
-Cloudflare argo no worky because school internet doesn’t like tunnels
-Trevor willingly purchased a domain for this project - spashaben.com
-Decided on flag syntax, sent out CTF challenge assignments 
