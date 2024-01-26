@@ -1,8 +1,8 @@
-Preliminary:
+**Preliminary:**
 Organized PC Layout
 Installed 4 SSDs
 
-Windows Server:
+**Windows Server:**
 Installed Windows Server 2022
 Configured Raid 1+0 on Windows Server
 In Windows Server “Add Roles and Features” Wizard
@@ -11,10 +11,10 @@ Downloading Docker Desktop
 Downloading WSL -> troubleshooting, not downloading properly
 Remove Windows Server and change it to Ubuntu - starting over
 
-Project Process: 
+**Project Process:**
 We first started out using Windows Server as the host operating system but we decided to switch to Ubuntu to make things simpler. 
 
-LINUX:
+**LINUX:**
 Download Docker
 Download ctf platform
 Killed the first docker container and started building the CTFd docker container through CLI
