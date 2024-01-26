@@ -1,25 +1,26 @@
-used https://github.com/mdulin2/SC4 to transfer CTF challenges from last year to prepare the Cybersecurity class in competing in Cyber Cup 2024
+Used https://github.com/mdulin2/SC4 to transfer CTF challenges from last year to prepare the Cybersecurity class in competing in Cyber Cup 2024
 
-Install CTFd
-Docker-compose stopped unexpectedly
-Cannot start nginx, install nginx -> error addressing 
-Spent 45 minutes messing with the look of CTFd
-
-
-Decided on flag syntax, sent out CTF challenge assignments 
-
- configuring docker to run on start
-
-Port is already allocated for cats web page
-Absurdly productive amount of time spent configuring essential aspects of the ctfd
-Create admin accounts for all project contributors
-setting up cloudflare argo tunnel 
-Cloudflare argo no worky because school internet doesn’t like tunnels
-Trevor willingly purchased a domain for this project - spashaben.com
-
-
-21) put command that runs docker into a script to reference in crontab
-22) configure challenge to run when link is clicked, messing around with ports
-65223 for cats, assign different port for every challenge
+1. Installed CTFd through terminal
+2. Docker-compose stopped unexpectedly
+3. Cannot start nginx, install nginx -> error addressing 
+4. Edited and configured CTFd (look, permissions, etc.)
+    1. Create admin accounts for all project contributors
+5. Decided on flag syntax, sent out CTF challenge assignments 
+    1. Decided to use Cyber Cup Challenges on top of the planned CTFs
+    2. Made a couple of our own
+6. Configured docker to run on start
+    1. Used command that runs docker into a bash script to reference in crontab
+7. Troubleshooting Cats Challenge:
+    1. Port is already allocated for cats web page
+    2. Configure challenge to run when link is clicked, messing around with ports
+    3. 65223 for cats, assign different port for every challenge
+8. Setting up cloudflare argo tunnel
+    1. Cloudflare argo did not work because school internet doesn’t like tunnels
+9. Trevor bought a domain
+    1. Not setup due to issues with argo
+10. Internal Server
 
 
+
+Reflection:
+Overall, we learned how to work together
