@@ -1,15 +1,15 @@
 **Preliminary:**
-Organized PC Layout
-Installed 4 SSDs
+- Organized PC Layout
+- Installed 4 SSDs
 
 **Windows Server:**
-Installed Windows Server 2022
-Configured Raid 1+0 on Windows Server
-In Windows Server “Add Roles and Features” Wizard
-Containers and Windows Subsystem for Linux
-Downloading Docker Desktop
-Downloading WSL -> troubleshooting, not downloading properly
-Remove Windows Server and change it to Ubuntu - starting over
+- Installed Windows Server 2022
+- Configured Raid 1+0 on Windows Server
+- In Windows Server “Add Roles and Features” Wizard
+- Containers and Windows Subsystem for Linux
+- Downloading Docker Desktop
+- Downloading WSL -> troubleshooting, not downloading properly
+- Remove Windows Server and change it to Ubuntu - starting over
 
 **Project Process:**
 We first started out using Windows Server as the host operating system but we decided to switch to Ubuntu to make things simpler. 
