@@ -12,4 +12,4 @@ NOW:
 - Make flags and cache data stored on RAID instead of NVMe
 - Must reconfigure CTFd - redownloaded
 - Reuploading challenges
-
+- Changed all port numbers in docker files
