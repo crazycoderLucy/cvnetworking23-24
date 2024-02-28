@@ -38,3 +38,8 @@ Use cybercup github repo
 Post on LinkedIn the final result
 
 *workstation*
+![IMG_0397](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/7b209d96-5808-4c4e-b9a1-2a4bbb7e0cbc)
+![IMG_0398](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/c035221d-8387-45cd-b578-e96e4b71b098)
+
+
+
