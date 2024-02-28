@@ -37,3 +37,4 @@ Help from Mr. Steiner, etc.
 Use cybercup github repo
 Post on LinkedIn the final result
 
+*workstation*
