@@ -27,4 +27,10 @@ We first started out using Windows Server as the host operating system but we de
 - Download mdadm (administration tools for RAID)
 - Create RAID device
 - Started docker container from repository
+
+![starting](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/3f7341e0-2eea-48d2-986e-b38e95fa2964)
+
 - Test connection worked as expected!
+
+![ipaddress](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/3126052c-1e2c-412b-be30-2a1dd81a5d57)
+
