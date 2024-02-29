@@ -6,7 +6,7 @@ Used https://github.com/mdulin2/SC4 to transfer CTF challenges from last year to
 
 
 1. Installed CTFd through terminal - pulled down CTFd using wget
-2. Docker-compose stopped unexpectedly - stopped unexpectedly
+2. Docker-compose stopped unexpectedly - stopped unexpectedly (docker has issues with other ports/servies)
 3. Cannot start nginx, install nginx -> error addressing 
 4. Edited and configured CTFd (look, permissions, etc.)
     1. Create admin accounts for all project contributors
@@ -16,14 +16,15 @@ Used https://github.com/mdulin2/SC4 to transfer CTF challenges from last year to
 6. Configured docker to run on start
     1. Used command that runs docker into a bash script to reference in crontab
 7. Troubleshooting Cats Challenge:
-    1. Port is already allocated for cats web page
+    1. Port is already allocated for cats web page (same concept with docker like mentioned above) 
     2. Configure challenge to run when link is clicked, messing around with ports
-    3. 65223 for cats, assign different port for every challenge
+    3. 65223 for cats, assign different port for every challenge (set the cats challenge to a different port to help solve for potential conflicts.)
 8. Setting up cloudflare argo tunnel
     1. Cloudflare argo did not work because school internet doesn’t like tunnels
 9. Trevor bought a domain
     1. Not setup due to issues with argo
 10. Internal Server
+    1. Decided to switch over to just using ip address
 
 
 
