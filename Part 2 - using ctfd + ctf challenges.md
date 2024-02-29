@@ -1,3 +1,5 @@
+trevor
+
 Used https://github.com/mdulin2/SC4 to transfer CTF challenges from last year to prepare the Cybersecurity class in competing in Cyber Cup 2024
 
 ![files](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/186e1046-3a97-4844-a95b-b990debde3fc)
