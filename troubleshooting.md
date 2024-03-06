@@ -5,12 +5,9 @@
 1) Upon further experimentation, when booting up the server packages were being deleted:
 2) Following the error messages, we began to redownload packages so that the __init__.py within ./docker_run_all.sh would run correctly (see Part 1 - web server.md for images)
   - Tried downloading python-is-python3 after line 25 python command not found
-  
-  b) Tried downloading flask-marshmallow
-  
-  c) There was a "no module to install" error message following many of these redownloaded packages
-  
-  d) Following the CTFd documentation, we started [Flask's built-in debugging server]([url](https://docs.ctfd.io/docs/deployment/installation/))
+  - Tried downloading flask-marshmallow
+  - There was a "no module to install" error message following many of these redownloaded packages
+  - Following the CTFd documentation, we started [Flask's built-in debugging server]([url](https://docs.ctfd.io/docs/deployment/installation/))
 
 3) The same error message was displayed after this troubleshooting
 
