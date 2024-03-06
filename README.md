@@ -1,7 +1,7 @@
 # cvnetworking23-24
 
-[Updated 1/19] Networking Project
-By: Trevor, Will, Kyler, Lucy [TWKL]
+CVHS Networking Fundamentals Project
+By: Trevor Lougy, Will Adamson, Kyler Wasley, Lucy He
 Preface:
 This is NOT a step-to-step tutorial but rather documents our thought process, changes, problems, and failures that we have encountered when working on this project. 
 
@@ -29,13 +29,11 @@ References:
 - https://medium.com/csictf/self-hosting-a-ctf-platform-ctfd-90f3f1611587
 
 Project Plan
-Using the materials, we will set up the server
-Figure out the OS - on Linux
-When hosting the CTF platform
-Consider multipurpose uses (file shares)
-Help from Mr. Steiner, etc.
-Use cybercup github repo
-Post on LinkedIn the final result
+1) Set up the server using primary materials
+2) Choose the OS
+3) Hosting the CTF platform, considering multipurpose uses
+4) Reference resources such as Mr. Steiner (EWU) and Mr. Pauley
+5) Post on LinkedIn the final result
 
 *workstation*
 ![pc](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/6643351a-1047-4926-a9c5-14e9faf013fe)
