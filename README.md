@@ -15,14 +15,14 @@ Why this project:
 The overall arching goal of this project is to understand how to build a web server
 
 Primary Materials: 
-- Cisco Business CBS350-8T-E-2G Managed Switch - amazon
-- 4 SSD’s -  crucial	
-- Usb to Ethernet Console Cable x3 - amazon
+- Cisco Business CBS350-8T-E-2G Managed Switch - Amazon
+- 4 SSD’s	
+- Usb to Ethernet Console Cable x3 - Amazon
 - More Mounting Brackets
 - Coursera PC
 - More drives to make it a server
 - More RAM
-- CTF platform: host on our server + make new challenges
+- CTFd Open-Source Platform: host on our server + make new challenges
 
 References:
 - https://www.baeldung.com/linux/raid-intro
