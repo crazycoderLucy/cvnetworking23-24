@@ -7,7 +7,7 @@
   - Tried downloading python-is-python3 after line 25 python command not found
   - Tried downloading flask-marshmallow
   - There was a "no module to install" error message following many of these redownloaded packages
-  - Following the CTFd documentation, we started [Flask's built-in debugging server]([url](https://docs.ctfd.io/docs/deployment/installation/))
+  - Following the CTFd documentation, we started [Flask's built-in debugging server](https://docs.ctfd.io/docs/deployment/installation/)
 
 3) The same error message was displayed after this troubleshooting
 
