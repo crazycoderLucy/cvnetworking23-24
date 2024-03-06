@@ -2,6 +2,7 @@
 
 CVHS Networking Fundamentals Project
 By: Trevor Lougy, Will Adamson, Kyler Wasley, Lucy He
+
 Preface:
 This is NOT a step-to-step tutorial but rather documents our thought process, changes, problems, and failures that we have encountered when working on this project. 
 
