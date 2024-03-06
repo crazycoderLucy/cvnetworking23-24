@@ -10,7 +10,7 @@
   - Following the CTFd documentation, we started [Flask's built-in debugging server](https://docs.ctfd.io/docs/deployment/installation/)
 
 3) The same error message was displayed after this troubleshooting
-5) Within CTFd platform we ran [prepare.sh](https://github.com/CTFd/CTFd/blob/master/prepare.sh) which allowed us to boot up the web server
+5) Within the CTFd files we ran [prepare.sh](https://github.com/CTFd/CTFd/blob/master/prepare.sh) which allowed us to boot up the web server again
 6) Shortly after, the web server would crash again
 7) We realized that this was a reoccuring issue that stemmed from the NVMe's inappropriate memory allocation (ran out)
 
