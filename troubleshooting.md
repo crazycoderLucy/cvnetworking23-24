@@ -17,4 +17,4 @@
 ***To address this issue, we have:***
 - Cached data to be stored on RAID instead of NVMe (ELABORATE)
 - CTFd Platform: Reconfigure CTFd, reuploaded challenges, changed port numbers in docker files
-- Use a performance benchmarking tool such as Samsung Magician Software to keep track of drive statistics (TEST)
+- Explored using a performance benchmarking tool such as Samsung Magician Software to keep track of drive statistics which will be beneficial for future projects.
