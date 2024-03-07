@@ -1,13 +1,11 @@
-kyler
-
-**Preliminary:**
+**Preliminary Steps:**
 - Organized PC Layout
 - Installed 4 SSDs
 
 **Windows Server:**
 - Installed Windows Server 2022
 - Configured Raid 1+0 on Windows Server
-- In Windows Server “Add Roles and Features” Wizard
+- Used Windows Server “Add Roles and Features” Wizard to configure
 - Containers and Windows Subsystem for Linux
 - Downloading Docker Desktop
 - Downloading WSL -> troubleshooting, not downloading properly
@@ -32,7 +30,7 @@ We first started out using Windows Server as the host operating system but we de
 
 ![starting](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/3f7341e0-2eea-48d2-986e-b38e95fa2964)
 
-- Test connection worked as expected!
+- Test connection worked as expected through IP address and port 8000
 
 ![ipaddress](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/3126052c-1e2c-412b-be30-2a1dd81a5d57)
 
