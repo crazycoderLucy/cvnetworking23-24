@@ -1,4 +1,4 @@
-~~Used https://github.com/mdulin2/SC4 to transfer CTF challenges from last year to prepare the Cybersecurity class in competing in Cyber Cup 2024~~ We used the Spokane Cyber Cup 4 challenges from the 2022-2023 Cyber Cup. This is possible due to Dr. Steiner who teaches at Eastern Washington University. Thanks to Dr. Steiner, he hosted his Spokane Cyber Cup 4 project on Github for the public to use! We decided to transfer some of the easier challenges to let players get a grasp for Capture the Flag in the land of Cybersecurity. 
+ We used the Spokane Cyber Cup 4 challenges from the 2022-2023 Cyber Cup. This is possible due to Dr. Steiner who teaches at Eastern Washington University. Thanks to Dr. Steiner, he hosted his Spokane Cyber Cup 4 project on Github for the public to use! We decided to transfer some of the easier challenges to let players get a grasp for Capture the Flag in the land of Cybersecurity. 
 
 ![files](https://github.com/crazycoderLucy/cvnetworking23-24/assets/117693275/186e1046-3a97-4844-a95b-b990debde3fc)
 
