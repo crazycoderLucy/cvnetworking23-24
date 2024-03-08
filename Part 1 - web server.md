@@ -22,6 +22,7 @@ We first started out using Windows Server as the host operating system but we de
     - Username: ctfadmin
     - Password: J0e-P@u!e7!
 - Removed the router due to issues with double NAT
+- Configured a static IP address on the classrooms 172.30.212.0/24 subnet
 - Although we wanted to build a parity drive, it didn’t happen
 - If RAID fails, parity drive rebuilds the failed drive
 - Download mdadm (administration tools for RAID)
