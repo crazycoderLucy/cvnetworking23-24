@@ -15,6 +15,6 @@
 7) We realized that this was a reoccuring issue that stemmed from the NVMe's inappropriate memory allocation (ran out)
 
 ***To address this issue, we have:***
-- Cached data to be stored on RAID instead of NVMe (ELABORATE)
+- Cached data to be stored on RAID instead of NVMe (We moved all of the CTFd servers files into the RAID configured SSD's to prevent the server from running out of storage)
 - CTFd Platform: Reconfigure CTFd, reuploaded challenges, changed port numbers in docker files
 - Explored using a performance benchmarking tool such as Samsung Magician Software to keep track of drive statistics which will be beneficial for future projects.
